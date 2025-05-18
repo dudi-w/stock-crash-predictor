@@ -1,4 +1,5 @@
 # 📉 Stock Crash Predictor
+![AI Stock Crash Predictor Concept](https://github.com/user-attachments/assets/a4d425dd-91bd-44aa-a5af-837cde7c864f)
 
 This project aims to build a predictive model that can **detect early warning signs of stock market crashes** before they occur. By identifying common patterns and anomalies in historical stock data, the system attempts to provide timely alerts that precede financial downturns.
 
